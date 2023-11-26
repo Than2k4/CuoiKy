@@ -1,0 +1,13 @@
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Login.resources
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Manager.resources
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.AccountPro.resources
+D:\OOP2022\ProjectCuoiKy\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Admin.resources
